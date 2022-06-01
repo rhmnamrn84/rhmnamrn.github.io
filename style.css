@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wadah-kiri {
+    position: fixed;
+    width: 410px;
+    height: 100vh;
+    background-color: tan;
+}
+
+.paragraf {
+    top: 200px;
+    position: absolute;
+    font-size: 12,5pt;
+    left: 10px;
+}
+.hubungi {
+    position: absolute;
+    padding-left: 150px;
+    top: 500px;
+    text-align: center;
+}
+
+.foto-profil {
+    position: absolute;
+    border-radius: 100%;
+    width: 100px;
+    left: 150px;
+    top: 50px;
+}
+
+.tombol {
+    width: 100%;
+    background-color: white;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    font-size: 1,5rem;
+    font-weight: bold;
+    padding: 15px;
+    color: black;
+}
+
+.tombol:hover {
+    background-color: black;
+    color: white;
+    transition: 0,5s;
+}
+.wadah-kanan {
+    position: absolute;
+    left: 470px;
+}
+
+.informasi {
+    top: 50px;
+    width: 860px;
+    position: absolute;
+}
+
+.menu {
+    font-size: 1,1rem;
+    padding: 0 15px;
+    font-size: 14pt;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+.menu:hover {
+    background-color: white;
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+
+#Cars {
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+#Ratatouille {
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+#Inside-Out {
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+.sumber {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.kaki {
+    text-align: center;
+    padding-top: 100px;
+}
